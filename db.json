@@ -1,0 +1,30 @@
+{
+  "users": [],
+  "songs": [
+    {
+      "title": "DASDCA",
+      "artist": "asfvg",
+      "album": "sd",
+      "genre": "Rock",
+      "duration": "sdfv",
+      "playlist": "Relax",
+      "releaseYear": 13,
+      "audioUrl": "/songs/hindi.mp3",
+      "isFavorite": false,
+      "id": "LO8j26JAuvs"
+    },
+    {
+      "title": "Titli",
+      "artist": "Chinmayi",
+      "album": "aaa",
+      "genre": "Classical",
+      "duration": "5",
+      "playlist": "Favorites",
+      "releaseYear": 2002,
+      "audioUrl": "/songs/Titli.mp3",
+      "isFavorite": false,
+      "id": "E2x39CQ75UU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
